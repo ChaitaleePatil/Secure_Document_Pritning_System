@@ -4,7 +4,7 @@ A secure and efficient platform for managing and printing sensitive documents.
 The system ensures end-to-end encryption, self-destructing links, and anti-forensic protection, providing customers with contactless, private, and safe printing services.  
 
 🎥 **Watch Demo Video**  
-[(https://drive.google.com/file/d/1rL-FqMPwezju4VGNZTVM_utt50XtEvgj/view?usp=sharing)](#)
+[https://drive.google.com/file/d/1rL-FqMPwezju4VGNZTVM_utt50XtEvgj/view?usp=sharing](#)
 
 ---
 
