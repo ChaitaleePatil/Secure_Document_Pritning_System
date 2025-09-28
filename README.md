@@ -4,7 +4,7 @@ A secure and efficient platform for managing and printing sensitive documents.
 The system ensures end-to-end encryption, self-destructing links, and anti-forensic protection, providing customers with contactless, private, and safe printing services.  
 
 🎥 **Watch Demo Video**  
-[https://drive.google.com/file/d/1rL-FqMPwezju4VGNZTVM_utt50XtEvgj/view?usp=sharing](#)
+[Demo Video Link](https://drive.google.com/file/d/1rL-FqMPwezju4VGNZTVM_utt50XtEvgj/view?usp=sharing)
 
 ---
 
@@ -79,4 +79,6 @@ The Secure Document Printing System eliminates these risks by:
 - ✅ Controlled printing – Shopkeeper sees only filename + print option  
 - ✅ Protected identity – Customer details never exposed  
 - ✅ Anti-forensic protection – No recovery possible  
-- ✅ AES-256 + Diffie-Hellman – Strong cryptographic backbone
+- ✅ AES-256 + Diffie-Hellman – Strong cryptographic backbone  
+
+🎥 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1rL-FqMPwezju4VGNZTVM_utt50XtEvgj/view?usp=sharing)
